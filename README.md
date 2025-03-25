@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project focused on analyzing employee data for a fictitious software company, aiming to uncover workforce trends and dive deeper into employee attrition patterns. The goal was to identify key factors influencing turnover and provide HR stakeholders with actionable insights through a comprehensive Power BI report.
+This project focused on analyzing employee data for a software company, aiming to uncover workforce trends and dive deeper into employee attrition patterns. The goal was to identify key factors influencing turnover and provide HR stakeholders with actionable insights through a comprehensive Power BI report.
 
 ## Here's a Glimpse of the Dashboard
 ![People_Analytics gif is not able to render](People_Analytics.gif)
