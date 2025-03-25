@@ -4,6 +4,9 @@
 ## Project Overview
 This project focused on analyzing employee data for a fictitious software company, aiming to uncover workforce trends and dive deeper into employee attrition patterns. The goal was to identify key factors influencing turnover and provide HR stakeholders with actionable insights through a comprehensive Power BI report.
 
+## Here's a Glimpse of the Dashboard
+![People_Analytics gif is not able to render](People_Analytics.gif)
+
 ## Why This Matters
 Employee attrition is a major concern for organizations, especially in fast-paced and competitive industries like technology. By understanding **who is leaving, why they are leaving, and which factors contribute to attrition**, HR teams can craft more effective **retention strategies**, enhance employee engagement, and foster a stronger organizational culture.
 
